@@ -45,6 +45,6 @@ Deslizar a la izquierda y derecha
 
   <!-- colocar icono app-->
 
-<icon src="res/android/mdpi.pngs"/>
+<icon src="res/android/mdpi.png"/>
 
 </widget>
